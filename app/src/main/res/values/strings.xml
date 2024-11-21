@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Greeting Card</string>
+    <string name="create_birthday_card">Create Birthday Card</string>
+    <string name="create_anniversary_card">Create Anniversary Card</string>
+    <string name="todo">TODO</string>
+    <string name="image">birthday</string>
+    <string name="name">Name</string>
+    <string name="husbandName">Husband Name</string>
+    <string name="wifeName">Wife Name</string>
+    <string name="anniversary">anniversary bg</string>
+    <string name="enter_couple_names">Enter Couple Names</string>
+    <string name="personName">Name</string>
+    <string name="enter_birthday_person_name">Enter Birthday Person Name</string>
+    <string name="birthdayWish">TextView</string>
+    <string name="birthdayImage">TODO</string>
+    <string name="anniversaryMessage">TextView</string>
+    <string name="anniversaryWish">TODO</string>
+</resources>
